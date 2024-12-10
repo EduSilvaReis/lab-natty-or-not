@@ -1,7 +1,7 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# O Melhor e mais rápido tutorial para dar o primeiro passo no mundo das criptomoedas
 
 ## 📒 Descrição
-PPedi para que fosse criado um Mini E-book com alguns passo a passos e recomendações para quem quer começara  investir com criptomoedas
+Pedi para que fosse criado um Mini E-book com alguns passo a passos e recomendações para quem quer começara  investir com criptomoedas
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT
